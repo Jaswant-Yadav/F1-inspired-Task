@@ -46,3 +46,8 @@ git clone https://github.com/Jaswant-Yadav/F1-inspired-Task.git
 cd F1-inspired-Task
 npm install
 npm start
+
+
+## Live Server
+
+https://f1-inspired-task.vercel.app/
